@@ -1,6 +1,6 @@
 ## Picture of project
 
-![image](https://user-images.githubusercontent.com/73717132/228358103-ad64d5ed-385e-4242-ac8a-4e57d0e057f7.png)
+![image](https://user-images.githubusercontent.com/73717132/228359824-8b939d53-ea08-49df-8036-518e052efac1.png)
 
 
 ## Probably error
